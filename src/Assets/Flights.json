@@ -1,0 +1,74 @@
+{
+    "flights": [
+      {
+        "origin": "LHR",
+        "destination": "CDG",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 200
+      },
+      {
+        "origin": "LHR",
+        "destination": "FRA",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 250
+      },
+      {
+        "origin": "LHR",
+        "destination": "AMS",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 220
+      },
+      {
+        "origin": "LHR",
+        "destination": "BER",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 280
+      },
+      {
+        "origin": "LHR",
+        "destination": "MAD",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 230
+      },
+      {
+        "origin": "LHR",
+        "destination": "BCN",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 260
+      },
+      {
+        "origin": "LHR",
+        "destination": "MIL",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 240
+      },
+      {
+        "origin": "LHR",
+        "destination": "ATH",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 290
+      },
+      {
+        "origin": "LHR",
+        "destination": "IST",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 270
+      },
+      {
+        "origin": "LHR",
+        "destination": "PRG",
+        "departureDate": "2023-03-01",
+        "returnDate": "2023-03-08",
+        "price": 300
+      }
+    ]
+}
